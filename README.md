@@ -5,6 +5,7 @@ Data set was created using [SNPN-UWB](http://www.log-a-tec.eu/mtc.html) board wi
 #### Demo video link: [Watch the demo video](https://www.youtube.com/watch?v=Ue9DFvSyd8A)
 
 ## Contributors
+This project was done in SIT Year 2 Trimester 2 - Data Analytics Modules
 - [Jasper](https://github.com/jaspertanlol)
 - [Timothy](https://github.com/timneam)
 - [Siong Yu](https://github.com/siongyu)
