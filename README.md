@@ -4,6 +4,14 @@ Data set was created using [SNPN-UWB](http://www.log-a-tec.eu/mtc.html) board wi
 ## Demo
 #### Demo video link: [Watch the demo video](https://www.youtube.com/watch?v=Ue9DFvSyd8A)
 
+## Contributors
+- [Jasper](https://github.com/jaspertanlol)
+- [Timothy](https://github.com/timneam)
+- [Siong Yu](https://github.com/siongyu)
+- [Cheng En](https://github.com/ACED07)
+- [Peter](https://github.com/x3Grim)
+- [Sean](https://github.com/seankzw)
+
 ## Data Set Description
 Measurements were taken on 7 different indoor locations:
 * Office1
